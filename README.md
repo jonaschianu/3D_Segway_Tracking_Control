@@ -10,6 +10,7 @@
 * [EasyDyn Installation and Steps](https://www.youtube.com/watch?v=UBJsEpGhe54&list=PLHqhOPWK5Yj9mU4LEKnrzOPH6ZNaJ5KxG) 
 
 ## Usage
+* Use the DesignController.m file to design a controller according to your desired performance.
 * Open and Run the segway.cpp file
 * Use EasyAnim to View the animation or to view the mode shapes.
 * Use GnuPlot to view the motion plots and their derivatives 
